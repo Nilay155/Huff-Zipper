@@ -7,7 +7,7 @@
     "start": "nodemon server.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "Nilay Jain",
   "license": "ISC",
   "description": "",
   "dependencies": {
